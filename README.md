@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a [blog](desmondwillowbrook.github.io/blog/).
+I have a [blog](https://desmondwillowbrook.github.io/blog/).
