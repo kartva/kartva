@@ -1,7 +1,7 @@
 I'm interested in designing performant and delightful software. I love open-source and have contributed a bunch. *I'm looking for Summer 2025 internships. If you find what I've done cool, I'd love to work with you.* Feel free to [contact me](mailto:sendtokartavya@gmail.com) if you'd like to chat about something I've worked on or might find interesting.
 
-### Work
-I previously worked on icu4x, an official i18n library by the Unicode consortium, and Librarian, a bioinformatics quality control tool.
+### Work / Open-Source Contributions
+I previously worked on icu4x, an open-source i18n library by the Unicode consortium, and Librarian, a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
 
 ### Research
 I'm broadly interested in programming languages, distributed systems and operating systems. My current work is in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
@@ -13,7 +13,6 @@ I'm broadly interested in programming languages, distributed systems and operati
 - employed as a Research Assistant working with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) working on optimizing MRDTs.
 - employed as a Teaching Assistant for Data Structures.
 - employed as a developer teaching assistant for Programming in C. I created test modules for course assignments.
-- went to the [Midwest Programming Languages Summit](https://pl.cs.uchicago.edu/PLSummit/2024/) at UChicago and met many interesting people!
 
 - (Relevant) classes:
   - Programming Languages. Assignments included:
@@ -26,10 +25,14 @@ I'm broadly interested in programming languages, distributed systems and operati
     - (team project) a graphical system monitor (à la `top`). (in C++ and ImGui)
   - Analysis of Algorithms. Assignments included:
     - proving the correctness of dynamic programming and greedy algorithms.
-    - proving the NP-completeness of many problems
+    - creating information compression schemes and comparing against entropy
+    - proving the NP-completeness of given problems via reduction to a known NP-complete problems
   - Independent Study in Embedded Systems with [Prof. Douglas Comer](https://en.wikipedia.org/wiki/Douglas_Comer), TCP/IP legend.
     - designed audio streaming system with PulseAudio to Raspberry Pis for concurrent audio playback.
     - wrote an [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)-like protocol for streaming audio over UDP
+   
+- Went to the [Midwest Programming Languages Summit](https://pl.cs.uchicago.edu/PLSummit/2024/) at UChicago and met many interesting people!
+- Attended nearly every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar
 
 #### Summer 2025
 - Google Summer of Code contributor for [icu4x](https://github.com/unicode-org/icu4x). Mentored by Younies Mehmoud from Google; almost all my coworkers ended up being Google employees. [Final report here.](https://gist.github.com/kartva/ff139f31876a42a0934ef84755596b2e)
@@ -44,6 +47,7 @@ I'm broadly interested in programming languages, distributed systems and operati
     - I wrote a just-in-time compiler in Rust for ARMv8 assembly as part of an honors contract (extra work done in exchange for honors credit).
   - Data Structures
   - Linear Algebra
+- Attended nearly every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar
 
 ### Fall 2023
 - (Relevant) classes:
@@ -51,6 +55,7 @@ I'm broadly interested in programming languages, distributed systems and operati
   - Foundations of Computer Science / Discrete Math
   - Honors Multivariable Calculus
   - Independent study in the C++11 memory model with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I explored tactics for designing performant and correct lock-free algorithms.
+- Attended nearly every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar
  
 ### Before University
 - I started working on Librarian with the Babraham Bioinformatics Institute in 2020. My work on Librarian was [published here](https://f1000research.com/articles/11-1122/v2) first in 2022, and then the revision in 2024.
