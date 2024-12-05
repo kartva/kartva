@@ -17,6 +17,7 @@ I'm broadly interested in programming languages, distributed systems and operati
 - (Relevant) classes:
   - Programming Languages. Assignments included:
     - writing lots of interpreters in OCaml. (I enjoyed all of them)
+    - writing an interpreter for a simple functional language with type inference and checking
     - verifying simple programs in Dafny
   - Systems Programming. Assigments included:
     - a malloc implementation. I made mine robust enough to run Chrome.
@@ -44,7 +45,7 @@ I'm broadly interested in programming languages, distributed systems and operati
 - (Relevant) classes:
   - Competitive Programming 2. Topics included segment trees, hashing, tries, graph algorithms, and combinatorics.
   - Computer Architecture
-    - I wrote a just-in-time compiler in Rust for ARMv8 assembly as part of an honors contract (extra work done in exchange for honors credit).
+    - I wrote a just-in-time compiler in Rust for ARMv8 assembly as part of an honors project.
   - Data Structures
   - Linear Algebra
 - Attended nearly every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar
