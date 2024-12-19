@@ -8,7 +8,10 @@ I'm broadly interested in programming languages, distributed systems and operati
 
 ### A chronological ordering of stuff I've done / am doing
 #### Fall 2024
-- ongoing: an eBPF packet filter to drop packets based typing speed with a video codec written from scratch to showcase said packet loss. For Purdue Hacker's [BURST](https://burst.purduehackers.com/).
+- I created [keymashed](https://github.com/kartva/keymashed/), an interactive exhibit at Purdue Hacker's [BURST](https://burst.purduehackers.com/). It contains interesting things, like:
+  - a JPEG-like lossy codec written from scratch
+  - a realtime video streaming protocol and associated netcode
+
 - [filed a bug report for the Linux kernel's memory management subsystem](https://marc.info/?t=172402767200002&r=1&w=2)
 - employed as a Research Assistant working with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) working on optimizing MRDTs.
 - employed as a Teaching Assistant for Data Structures.
