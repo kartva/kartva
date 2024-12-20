@@ -38,7 +38,7 @@ I'm broadly interested in programming languages, distributed systems and operati
 - Went to the [Midwest Programming Languages Summit](https://pl.cs.uchicago.edu/PLSummit/2024/) at UChicago and met many interesting people!
 - Attended nearly every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar
 
-#### Summer 2025
+#### Summer 2024
 - Google Summer of Code contributor for [icu4x](https://github.com/unicode-org/icu4x). Mentored by Younies Mehmoud from Google; almost all my coworkers ended up being Google employees. [Final report here.](https://gist.github.com/kartva/ff139f31876a42a0934ef84755596b2e)
 - Summer Undergraduate Research Fellow at Purdue University studying [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf) using [Irmin](https://irmin.org/) and OCaml.
 
