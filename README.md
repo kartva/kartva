@@ -1,7 +1,7 @@
 I'm interested in designing performant and delightful software. I love open-source and have contributed a bunch. *I'm looking for Summer 2025 internships. If you find what I've done cool, I'd love to work with you.* Feel free to [contact me](mailto:sendtokartavya@gmail.com) if you'd like to chat about something I've worked on or might find interesting.
 
 ### Work / Open-Source Contributions
-I previously worked on icu4x, an open-source i18n library by the Unicode consortium, and Librarian, a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
+I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
 
 ### Research
 I'm broadly interested in programming languages, distributed systems and operating systems. My current work is in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
