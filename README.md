@@ -15,7 +15,7 @@ I'm broadly interested in programming languages, distributed systems and operati
     - Writing a Trusted Execution Environment for a Risc-V softcore.
     - Using a Chipwhisperer Nano for side-channel attacks.
   - Graduate Robotics Software Engineering.
-  - Compilers with Tiark Rompf (of Scala fame). Assignements include lots of Scala compilers.
+  - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
 
 #### Fall 2024
 - I created [keymashed](https://github.com/kartva/keymashed/), an interactive exhibit at Purdue Hacker's [BURST](https://burst.purduehackers.com/). It contains interesting things, like:
