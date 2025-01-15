@@ -7,6 +7,16 @@ I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-so
 I'm broadly interested in programming languages, distributed systems and operating systems. My current work is in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
 
 ### A chronological ordering of stuff I've done / am doing
+#### Spring 2025
+- (Relevant) classes:
+  - Graduate Programming Languages. Assignments include lots of Coq / Rocq.
+  - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis.
+  - Graduate Hardware Security. Projects include:
+    - Writing a Trusted Execution Environment for a Risc-V softcore.
+    - Using a Chipwhisperer Nano for side-channel attacks.
+  - Graduate Robotics Software Engineering.
+  - Compilers with Tiark Rompf (of Scala fame). Assignements include lots of Scala compilers.
+
 #### Fall 2024
 - I created [keymashed](https://github.com/kartva/keymashed/), an interactive exhibit at Purdue Hacker's [BURST](https://burst.purduehackers.com/). It contains interesting things, like:
   - a JPEG-like lossy codec written from scratch.
@@ -31,7 +41,7 @@ I'm broadly interested in programming languages, distributed systems and operati
     - proving the correctness of dynamic programming and greedy algorithms.
     - creating information compression schemes and comparing against entropy.
     - proving the NP-completeness of given problems via reduction to a known NP-complete problems.
-  - Independent Study in Embedded Systems with [Prof. Douglas Comer](https://en.wikipedia.org/wiki/Douglas_Comer), TCP/IP legend.
+  - Independent Study in Embedded Systems with [Prof. Douglas Comer](https://en.wikipedia.org/wiki/Douglas_Comer), of TCP/IP fame.
     - designed audio streaming system with Raspberry Pis for concurrent audio playback.
     - wrote an [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)-like protocol for streaming audio over UDP.
    
