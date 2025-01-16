@@ -21,12 +21,10 @@ I'm broadly interested in programming languages, distributed systems and operati
 - I created [keymashed](https://github.com/kartva/keymashed/), an interactive exhibit at Purdue Hacker's [BURST](https://burst.purduehackers.com/). It contains interesting things, like:
   - a JPEG-like lossy codec written from scratch.
   - a realtime video streaming protocol and associated netcode.
-
 - [filed a bug report for the Linux kernel's memory management subsystem](https://marc.info/?t=172402767200002&r=1&w=2).
 - employed as a Research Assistant working with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) working on optimizing MRDTs.
 - employed as a Teaching Assistant for Data Structures.
 - employed as a developer teaching assistant for Programming in C. I created test modules for course assignments.
-
 - (Relevant) classes:
   - Programming Languages. Assignments included:
     - writing lots of interpreters in OCaml (I enjoyed all of them).
@@ -44,7 +42,6 @@ I'm broadly interested in programming languages, distributed systems and operati
   - Independent Study in Embedded Systems with [Prof. Douglas Comer](https://en.wikipedia.org/wiki/Douglas_Comer), of TCP/IP fame.
     - designed audio streaming system with Raspberry Pis for concurrent audio playback.
     - wrote an [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)-like protocol for streaming audio over UDP.
-   
 - Went to the [Midwest Programming Languages Summit](https://pl.cs.uchicago.edu/PLSummit/2024/) at UChicago and met many interesting people!
 - Attended every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar.
 
