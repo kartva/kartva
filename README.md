@@ -14,7 +14,7 @@ I'm broadly interested in programming languages, distributed systems and operati
   - Graduate Hardware Security. Projects include:
     - Writing a Trusted Execution Environment for a Risc-V softcore.
     - Using a Chipwhisperer Nano for side-channel attacks.
-  - Graduate Robotics Software Engineering.
+  - Graduate Software Engineering for Robots. Assignments include working with ROS2 and MoveIt. Our final project will be deployed on two Franka 3 robot arms!
   - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
 
 #### Fall 2024
