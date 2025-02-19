@@ -13,6 +13,7 @@ I'm broadly interested in programming languages, distributed systems and operati
   - Graduate Programming Languages. Assignments include lots of Coq / Rocq.
   - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis.
   - Graduate Hardware Security. Projects include:
+    - Hacking the ZBT WE526 (WE1626) router.
     - Writing a Trusted Execution Environment for a Risc-V softcore.
     - Using a Chipwhisperer Nano for side-channel attacks.
   - Graduate Software Engineering for Robots. Assignments include working with ROS2 and MoveIt. Our final project will be deployed on two Franka 3 robot arms!
