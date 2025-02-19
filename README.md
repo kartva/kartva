@@ -8,6 +8,7 @@ I'm broadly interested in programming languages, distributed systems and operati
 
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2025
+- I am slated to teach the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
 - (Relevant) classes:
   - Graduate Programming Languages. Assignments include lots of Coq / Rocq.
   - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis.
