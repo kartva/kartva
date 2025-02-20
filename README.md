@@ -51,7 +51,7 @@ I'm broadly interested in programming languages, distributed systems and operati
 - Google Summer of Code contributor for [icu4x](https://github.com/unicode-org/icu4x). Mentored by Younies Mehmoud from Google; almost all my coworkers ended up being Google employees. [Final report here.](https://gist.github.com/kartva/ff139f31876a42a0934ef84755596b2e)
 - Summer Undergraduate Research Fellow at Purdue University studying [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf) using [Irmin](https://irmin.org/) and OCaml.
 
-### Spring 2024
+#### Spring 2024
 - I wrote [a clean inter-process communication program using POSIX shared memory](https://github.com/kartva/memtalk).
 - I participated in the [Open Source Contributor Initiative by OpenSearch](https://opensearch.org/blog/Receive-mentorship-from-Amazon-engineers-and-accelerate-your-career-in-Tech/) and worked on the Performance Analyzer component in OpenSearch using Java.
 - (Relevant) classes:
@@ -62,7 +62,7 @@ I'm broadly interested in programming languages, distributed systems and operati
   - Linear Algebra
 - Attended every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar.
 
-### Fall 2023
+#### Fall 2023
 - (Relevant) classes:
   - Programming in C
   - Foundations of Computer Science / Discrete Math
@@ -70,7 +70,7 @@ I'm broadly interested in programming languages, distributed systems and operati
   - Independent study in the C++11 memory model with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I explored tactics for designing performant and correct lock-free algorithms. _Report available on request (until I get around to publishing it)._
 - Attended nearly every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar.
  
-### Before University
+#### Before University
 - I started working on Librarian with the Babraham Bioinformatics Institute in 2020. My work on Librarian was [published here](https://f1000research.com/articles/11-1122/v2) first in 2022, and then the revision in 2024.
 - I briefly worked with [Trestle Labs](https://www.trestlelabs.com/) on computer vision using OpenCV in winter 2023.
 - I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master), from which I was inspired to write my first blog post on segment trees.
