@@ -8,6 +8,7 @@ I'm broadly interested in programming languages, distributed systems and operati
 
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2025
+- I taught an hour-long spontaneous session on theorem proving in Coq at Purdue Hackers.
 - I'm working on [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). It is ~5000 words and counting. At least two academic advisors plan to share it with their students in upcoming years!
 - I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrdg7QBiV4HxrGNebdp4vL6WEUQ0w-6RpI) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
 - (Relevant) classes:
@@ -15,7 +16,7 @@ I'm broadly interested in programming languages, distributed systems and operati
   - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis.
   - Graduate Hardware Security. Projects include:
     - Hacking the ZBT WE526 (WE1626) router.
-    - Writing a Trusted Execution Environment for a Risc-V softcore.
+    - Writing a Trusted Execution Environment for the [FemtoRV Risc-V CPU](https://github.com/BrunoLevy/learn-fpga/tree/master) in Verilog.
     - Using a Chipwhisperer Nano for side-channel attacks.
   - Graduate Software Engineering for Robots. Assignments include working with ROS2 and MoveIt. Our final project will be deployed on two Franka 3 robot arms!
   - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
@@ -72,6 +73,7 @@ I'm broadly interested in programming languages, distributed systems and operati
 - Attended nearly every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar.
  
 #### Before University
+- I was accepted to the University of Waterloo, and was later slightly disappointed to know that it was a very good school that I passed on.
 - I started working on Librarian with the Babraham Bioinformatics Institute in 2020. My work on Librarian was [published here](https://f1000research.com/articles/11-1122/v2) first in 2022, and then the revision in 2024.
 - I briefly worked with [Trestle Labs](https://www.trestlelabs.com/) on computer vision using OpenCV in winter 2023.
 - I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master), from which I was inspired to write my first blog post on segment trees.
