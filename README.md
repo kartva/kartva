@@ -14,11 +14,13 @@ I'm broadly interested in programming languages, systems programming and distrib
 - (Relevant) classes:
   - Graduate Programming Languages. Assignments include proving the correctness of a compiler against a reference interpreter and proving type soundness of the simply-typed lambda calculus in Coq / Rocq. The course is based on books from the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series.
   - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis.
+
   - Graduate Hardware Security. Projects include:
     - Hacking the ZBT WE526 (WE1626) router.
     - Writing a Trusted Execution Environment for the [FemtoRV Risc-V CPU](https://github.com/BrunoLevy/learn-fpga/tree/master) in Verilog.
     - Using a Chipwhisperer Nano for side-channel attacks.
-  - Graduate Software Engineering for Robots. Assignments include working with ROS2 and MoveIt. I presented the [HAMSTER 🐹: Hierarchical Action Models for Open-World Robot Manipulation](https://hamster-robot.github.io/) paper.
+  - Graduate Software Engineering for Robots. Assignments include working with ROS2 and MoveIt. I presented the [HAMSTER 🐹: Hierarchical Action Models for Open-World Robot Manipulation](https://hamster-robot.github.io/) paper. [Slides here.](https://github.com/user-attachments/files/19881266/CS.59300SER.Paper.Presentation.pdf)
+
   - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
 
 #### Fall 2024
