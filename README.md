@@ -60,7 +60,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 - I participated in the [Open Source Contributor Initiative by OpenSearch](https://opensearch.org/blog/Receive-mentorship-from-Amazon-engineers-and-accelerate-your-career-in-Tech/) and worked on the Performance Analyzer component in OpenSearch using Java.
 - (Relevant) classes:
   - Competitive Programming 2: topics included segment trees, hashing, tries, graph algorithms, and combinatorics.
-  - Computer Architecture: topics included assembly code, digital logic, processor architecture and _so much caching_
+  - Computer Architecture: topics included assembly code, digital logic, processor architecture and _so much caching_.
     - [I wrote a just-in-time compiler in Rust for ARMv8 assembly](https://github.com/kartva/k-lox-jit) as part of an honors project. It jitted on function call granularity and cached the generated assembly for future invocations.
   - Data Structures: topics included Big-O notation, heaps, binary trees, linked lists, tries, sorts, hashing, graphs, etc.
   - Linear Algebra
