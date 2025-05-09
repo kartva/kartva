@@ -12,9 +12,8 @@ I'm broadly interested in programming languages, systems programming and distrib
 - I wrote [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). It is ~6000 words. At least two academic advisors plan to share it with their students in upcoming years!
 - I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrdg7QBiV4HxrGNebdp4vL6WEUQ0w-6RpI) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
 - (Relevant) classes:
-  - Graduate Programming Languages. Assignments include proving the correctness of a compiler against a reference interpreter and proving type soundness of the simply-typed lambda calculus in Coq / Rocq. The course is based on books from the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series.
-  - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis.
-
+  - Graduate Programming Languages. Assignments include proving the correctness of a compiler against a reference interpreter and proving type soundness of the simply-typed lambda calculus in Coq / Rocq. The first half of the course is based on books from the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series, while the second half covers Dafny, plus a brief introduction to separation logic.
+  - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis. _I'm currently working on an artifact to showcase some of the cool content from this course. Stay tuned!_
   - Graduate Hardware Security. Projects include:
     - Hacking the ZBT WE526 (WE1626) router.
     - Writing a Trusted Execution Environment for the [FemtoRV Risc-V CPU](https://github.com/BrunoLevy/learn-fpga/tree/master) in Verilog.
