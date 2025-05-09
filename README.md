@@ -17,7 +17,7 @@ I'm broadly interested in programming languages, systems programming and distrib
   - Graduate Hardware Security. Projects include:
     - Hacking the ZBT WE526 (WE1626) router.
     - Writing a Trusted Execution Environment for the [FemtoRV Risc-V CPU](https://github.com/BrunoLevy/learn-fpga/tree/master) in Verilog.
-    - Using a Chipwhisperer Nano for side-channel attacks.
+    - Using the Chipwhisperer Nano to crack AES-128 through power analysis.
   - Graduate Software Engineering for Robots. Assignments include working with ROS2 and MoveIt. I presented the [HAMSTER 🐹: Hierarchical Action Models for Open-World Robot Manipulation](https://hamster-robot.github.io/) paper. [Slides here.](https://github.com/user-attachments/files/19881266/CS.59300SER.Paper.Presentation.pdf)
 
   - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
