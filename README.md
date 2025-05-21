@@ -1,13 +1,18 @@
 I'm interested in designing performant and delightful software. I love open-source and have contributed a bunch. Feel free to [contact me](mailto:sendtokartavya@gmail.com) if you'd like to chat about something I've worked on or might find interesting. I can be found IRL most easily at [Hack Nights](https://events.purduehackers.com/) at Purdue University.
 
 ### Work / Open-Source Contributions
-I will be interning at [Neuralink](https://neuralink.com/) in the fall. I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
+I will be interning at [Modular](https://www.modular.com/) in the summer and [Neuralink](https://neuralink.com/) in the fall, both in the Bay Area. I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
 
 ### Research
 I'm broadly interested in programming languages, systems programming and distributed systems. My current work is in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
 
 ### A chronological ordering of stuff I've done / am doing
+#### Summer 2025
+- I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!
+- I will be interning at [Modular](https://www.modular.com/). I need housing; if you see this and know someone whose living room I can sleep in, I would appreciate a reach-out.
+
 #### Spring 2025
+- Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue and won first place in the Most Creative category. _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_
 - I taught an hour-long spontaneous session on theorem proving in Coq at Purdue Hackers.
 - I wrote [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). It is ~6000 words. At least two academic advisors plan to share it with their students in upcoming years!
 - I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrdg7QBiV4HxrGNebdp4vL6WEUQ0w-6RpI) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
