@@ -10,7 +10,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 #### Summer 2025
 - I will be attending [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California!
 - I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!
-- I will be interning at [Modular](https://www.modular.com/). I need housing; if you see this and know someone whose living room I can sleep in, I would appreciate a reach-out.
+- I will be interning at [Modular](https://www.modular.com/).
 
 #### Spring 2025
 - Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue and won first place in the Most Creative category. _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_
