@@ -8,6 +8,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 
 ### A chronological ordering of stuff I've done / am doing
 #### Summer 2025
+- I will be attending [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California!
 - I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!
 - I will be interning at [Modular](https://www.modular.com/). I need housing; if you see this and know someone whose living room I can sleep in, I would appreciate a reach-out.
 
