@@ -4,12 +4,12 @@ I'm interested in designing performant and delightful software. I love open-sour
 I am interning at [Modular](https://www.modular.com/) in the summer and [Neuralink](https://neuralink.com/) in the fall, both in the Bay Area. I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
 
 ### Research
-I'm broadly interested in programming languages, systems programming and distributed systems. My current work is in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
+I'm broadly interested in programming languages, systems programming and distributed systems. I'm currently interested in making software better through integrating LLMs and formal verification: _Software sucks in so many different ways -- random server errors, stale caches, janky animations -- how can we exploit the ability to generate oodles of code for cents to make it better?_ My previous work was in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
 
 ### A chronological ordering of stuff I've done / am doing
 #### Summer 2025
 - I am interning at [Modular](https://www.modular.com/) working on the Mojo standard library. I expect nearly all of my work to be open-source. ~~I will not be at ETH Zurich for those wondering.~~
-- I attended [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California.
+- I attended [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California. I was invited to and attended a dinner with a YC partner as well.
 - ~~I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!~~ (conflicts with AI Startup School)
 
 #### Spring 2025
