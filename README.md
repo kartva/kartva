@@ -8,6 +8,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 
 ### A chronological ordering of stuff I've done / am doing
 #### Summer 2025
+- I am running the [SIGHORSE🦓](https://sig.horse/) mock journal for Purdue Hackers.
 - I am interning at [Modular](https://www.modular.com/) working on the Mojo standard library. I expect nearly all of my work to be open-source. ~~I will not be at ETH Zurich for those wondering.~~
 - I attended [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California. I was invited to and attended a dinner with a YC partner as well.
 - ~~I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!~~ (conflicts with AI Startup School)
