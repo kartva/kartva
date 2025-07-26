@@ -9,14 +9,14 @@ I'm broadly interested in programming languages, systems programming and distrib
 ### A chronological ordering of stuff I've done / am doing
 #### Summer 2025
 - I am running the [SIGHORSE🦓](https://sig.horse/) mock journal for Purdue Hackers.
-- I am interning at [Modular](https://www.modular.com/) working on the Mojo standard library. I expect nearly all of my work to be open-source. ~~I will not be at ETH Zurich for those wondering.~~
+- **I am interning at [Modular](https://www.modular.com/)** working on the Mojo standard library, with Chris Lattner of LLVM fame. I expect nearly all of my work to be open-source. ~~I will not be at ETH Zurich for those wondering.~~
 - I attended [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California. I was invited to and attended a dinner with a YC partner as well.
 - ~~I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!~~ (conflicts with AI Startup School)
 
 #### Spring 2025
-- Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue and won first place in the Most Creative category. _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_
+- Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue and won first place in the Most Creative category. <!-- _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_ -->
 - I taught an hour-long spontaneous session on theorem proving in Coq at Purdue Hackers.
-- I wrote [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). It is ~6000 words. At least two academic advisors plan to share it with their students in upcoming years!
+- **I wrote [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038).** It is ~6000 words. At least two academic advisors plan to share it with their students in upcoming years!
 - I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrdg7QBiV4HxrGNebdp4vL6WEUQ0w-6RpI) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
 - (Relevant) classes:
   - Graduate Programming Languages. Assignments include proving the correctness of a compiler against a reference interpreter and proving type soundness of the simply-typed lambda calculus in Coq / Rocq. The first half of the course is based on books from the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series, while the second half covers Dafny, plus a brief introduction to separation logic.
