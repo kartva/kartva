@@ -7,6 +7,9 @@ I am interning at [Modular](https://www.modular.com/) in the summer and [Neurali
 I'm broadly interested in programming languages, systems programming and distributed systems. I'm currently interested in making software better through integrating LLMs and formal verification: _Software sucks in so many different ways -- random server errors, stale caches, janky animations -- how can we exploit the ability to generate oodles of code for cents to make it better?_ My previous work was in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
 
 ### A chronological ordering of stuff I've done / am doing
+#### Fall 2025
+- I will be interning at [Neuralink](https://neuralink.com/). **I am looking for housing near Fremont, CA.**
+
 #### Summer 2025
 - I am running the [SIGHORSE🦓](https://sig.horse/) mock journal for Purdue Hackers.
 - **I am interning at [Modular](https://www.modular.com/)** working on the Mojo standard library, with Chris Lattner of LLVM fame. I expect nearly all of my work to be open-source. ~~I will not be at ETH Zurich for those wondering.~~
