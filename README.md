@@ -59,6 +59,7 @@ I'm broadly interested in programming languages, systems programming and distrib
     - wrote an [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)-like protocol for streaming audio over UDP.
 - Went to the [Midwest Programming Languages Summit](https://pl.cs.uchicago.edu/PLSummit/2024/) at UChicago and met many interesting people!
 - Attended every [PurPL (Purdue Programming Languages)](https://purduepl.github.io/) weekly seminar.
+- Received the William C. Nylin, Jr. Endowed Scholarship from the Purdue Department of Computer Science for academic merit.
 
 #### Summer 2024
 - Google Summer of Code contributor for [icu4x](https://github.com/unicode-org/icu4x). Mentored by Younies Mehmoud from Google; almost all my coworkers ended up being Google employees. [Final report here.](https://gist.github.com/kartva/ff139f31876a42a0934ef84755596b2e)
