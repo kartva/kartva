@@ -4,7 +4,7 @@ I'm interested in designing performant and delightful software. I love open-sour
 I am interning at [Modular](https://www.modular.com/) in the summer and [Neuralink](https://neuralink.com/) in the fall, both in the Bay Area. I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
 
 ### Research
-I'm broadly interested in programming languages, systems programming and distributed systems. I'm currently interested in making software better through integrating LLMs and formal verification: _Software sucks in so many different ways -- random server errors, stale caches, janky animations -- how can we exploit the ability to generate oodles of code for cents to make it better?_ My previous work was in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf).
+I'm broadly interested in programming languages, systems programming and distributed systems. I'm currently interested in making software better through integrating LLMs and formal verification: _Software sucks in so many different ways -- random server errors, stale caches, janky animations -- how can we exploit the ability to generate oodles of code for cents to make it better?_ My previous work was in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf) with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/).
 
 ### A chronological ordering of stuff I've done / am doing
 #### Fall 2025
@@ -14,7 +14,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 - I am running the [SIGHORSE🦓](https://sig.horse/) mock journal for Purdue Hackers.
 - **I am interning at [Modular](https://www.modular.com/)** working on the Mojo standard library, with Chris Lattner of LLVM fame. I expect nearly all of my work to be open-source. ~~I will not be at ETH Zurich for those wondering.~~
 - I attended [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California. I was invited to and attended a dinner with a YC partner as well.
-- ~~I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!~~ (conflicts with AI Startup School)
+<!--- - ~~I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!~~ (conflicts with AI Startup School) --->
 
 #### Spring 2025
 - Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue and won first place in the Most Creative category. <!-- _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_ -->
@@ -22,13 +22,16 @@ I'm broadly interested in programming languages, systems programming and distrib
 - **I wrote [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038).** It is ~6000 words. At least two academic advisors plan to share it with their students in upcoming years!
 - I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrdg7QBiV4HxrGNebdp4vL6WEUQ0w-6RpI) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
 - (Relevant) classes:
-  - Graduate Programming Languages. Assignments include proving the correctness of a compiler against a reference interpreter and proving type soundness of the simply-typed lambda calculus in Coq / Rocq. The first half of the course is based on books from the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series, while the second half covers Dafny, plus a brief introduction to separation logic.
-  - Graduate Theoretical Computer Science Toolkit. Topics include convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis. _I'm currently working on an artifact to showcase some of the cool content from this course. Stay tuned!_
+  - Graduate Programming Languages. The first half of the course was based on books from the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series, while the second half covered Dafny, plus a brief introduction to separation logic. Assignments included:
+    - Proving the correctness of a compiler against a reference interpreter for an imperative language in Coq / Rocq.
+    - Proving type soundness of the simply-typed lambda calculus in Coq / Rocq.
+    - Formalizing an interpreter for an imperative language in Dafny.
+  - Graduate Theoretical Computer Science Toolkit. Topics included convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis. _I'm currently working on an artifact to showcase some of the cool content from this course. Stay tuned!_
   - Graduate Hardware Security. Projects include:
     - Hacking the ZBT WE526 (WE1626) router.
     - Writing a Trusted Execution Environment for the [FemtoRV Risc-V CPU](https://github.com/BrunoLevy/learn-fpga/tree/master) in Verilog.
     - Using the Chipwhisperer Nano to crack AES-128 through power analysis.
-  - Graduate Software Engineering for Robots. Assignments include working with ROS2 and MoveIt. I presented the [HAMSTER 🐹: Hierarchical Action Models for Open-World Robot Manipulation](https://hamster-robot.github.io/) paper. [Slides here.](https://github.com/user-attachments/files/19881266/CS.59300SER.Paper.Presentation.pdf)
+  - Graduate Software Engineering for Robots. Assignments included working with ROS2 and MoveIt. I presented the [HAMSTER 🐹: Hierarchical Action Models for Open-World Robot Manipulation](https://hamster-robot.github.io/) paper. [Slides here.](https://github.com/user-attachments/files/19881266/CS.59300SER.Paper.Presentation.pdf)
 
   - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
 
@@ -42,7 +45,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 - employed as a developer teaching assistant for Programming in C. I created test modules for course assignments.
 - (Relevant) classes:
   - Programming Languages. Assignments included:
-    - writing lots of interpreters in OCaml (I enjoyed all of them).
+    - writing lots of interpreters in OCaml.
     - writing an interpreter for a functional language with type inference and checking.
     - verifying simple programs in Dafny.
   - Systems Programming. Assigments included:
