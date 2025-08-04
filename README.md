@@ -92,6 +92,6 @@ I'm broadly interested in programming languages, systems programming and distrib
 - I was accepted to the University of Waterloo, and was later slightly disappointed to know that it was a very good school that I passed on.
 - I started working on Librarian with the Babraham Bioinformatics Institute in 2020. My work on Librarian was [published here](https://f1000research.com/articles/11-1122/v2) first in 2022, and then the revision in 2024.
 - I briefly worked with [Trestle Labs](https://www.trestlelabs.com/) on computer vision using OpenCV in winter 2023.
-- I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master), from which I was inspired to write my first blog post on segment trees.
+- **I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master), from which I was inspired to write my first blog post on segment trees.**
 
-My [blog](https://desmondwillowbrook.github.io/blog/) - it's not completely up to date.
+My [blog](https://blog.vashishtha.in/) - it's not completely up to date.
