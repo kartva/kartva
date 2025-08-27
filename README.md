@@ -1,4 +1,5 @@
-I'm interested in designing performant and delightful software. I love open-source and have contributed a bunch. Feel free to [contact me](mailto:sendtokartavya@gmail.com) if you'd like to chat about something I've worked on or might find interesting. I can be found IRL most easily at [Hack Nights](https://events.purduehackers.com/) at Purdue University.
+I believe in creating performant, robust and delightful software. I've contributed a bunch to open-source projects. \
+**This is a standing invitation: if you want to talk software[^1], [I want to talk to you](mailto:sendtokartavya@gmail.com)[^2].**
 
 ### Work / Open-Source Contributions
 I am interning at [Modular](https://www.modular.com/) in the summer and [Neuralink](https://neuralink.com/) in the fall, both in the Bay Area. I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
@@ -95,3 +96,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 - **I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master), from which I was inspired to write my first blog post on segment trees.**
 
 My [blog](https://blog.vashishtha.in/) - it's not completely up to date.
+
+----
+[^1]: other things are cool too.
+[^2]: [thanks to Patrick McKenzie's standing invitation page for the awesome phrase](https://www.kalzumeus.com/standing-invitation/)
