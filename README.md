@@ -45,7 +45,7 @@ I'm broadly interested in programming languages, systems programming and distrib
   - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
 
 #### Fall 2024
-- I created [keymashed](https://github.com/kartva/keymashed/), an interactive exhibit at Purdue Hacker's [BURST](https://burst.purduehackers.com/). It contains interesting things, like:
+- **I created [keymashed](https://github.com/kartva/keymashed/)**, an interactive exhibit at Purdue Hacker's [BURST](https://burst.purduehackers.com/). It contains interesting things, like:
   - a JPEG-like lossy codec written from scratch.
   - a realtime video streaming protocol and associated netcode.
 - [filed a bug report for the Linux kernel's memory management subsystem](https://marc.info/?t=172402767200002&r=1&w=2).
