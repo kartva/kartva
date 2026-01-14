@@ -8,8 +8,16 @@ I previously interned at [Neuralink](https://neuralink.com/), [Modular](https://
 I'm broadly interested in programming languages, systems programming and distributed systems. I'm currently interested in making software better through integrating LLMs and formal verification: _Software sucks in so many different ways -- random server errors, stale caches, janky animations -- how can we exploit the ability to generate oodles of code for cents to make it better?_ My previous work was in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf) with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/).
 
 ### A chronological ordering of stuff I've done / am doing
+#### Spring 2025
+- (Relevant) classes:
+  - (Graduate) Operating Systems
+  - Honors Research: TBD
+  - Signals and Systems for Mathematicians
+-  I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers. Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
+
 #### Fall 2025
-- I am interning at [Neuralink](https://neuralink.com/).
+- I interned at [Neuralink](https://neuralink.com/).
+- I continued to run the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers. Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
 
 #### Summer 2025
 - I ran the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers. Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
