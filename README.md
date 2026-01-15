@@ -2,7 +2,7 @@ I believe in creating performant, robust and delightful software. I've contribut
 **This is a standing invitation: if you want to talk software[^1], [I want to talk to you](mailto:sendtokartavya@gmail.com)[^2].**
 
 ### Work / Open-Source Contributions
-I previously interned at [Neuralink](https://neuralink.com/), [Modular](https://www.modular.com/). I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).
+I previously interned at [Neuralink](https://neuralink.com/) and [Modular](https://www.modular.com/). I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. <!--- I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).-->
 
 ### Research
 I'm broadly interested in programming languages, systems programming and distributed systems. I'm currently interested in making software better through integrating LLMs and formal verification: _Software sucks in so many different ways -- random server errors, stale caches, janky animations -- how can we exploit the ability to generate oodles of code for cents to make it better?_ My previous work was in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf) with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/).
@@ -13,14 +13,12 @@ I'm broadly interested in programming languages, systems programming and distrib
   - (Graduate) Operating Systems
   - Honors Research: TBD
   - Signals and Systems for Mathematicians
--  I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers. Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
+-  **I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers.** Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
 
 #### Fall 2025
 - I interned at [Neuralink](https://neuralink.com/).
-- I continued to run the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers. Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
 
 #### Summer 2025
-- I ran the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers. Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
 - **I interned at [Modular](https://www.modular.com/)** working on the Mojo standard library, with Chris Lattner of LLVM fame. Nearly all of my work was open-source in the [Modular monorepo](https://github.com/modular/modular/). ~~I will not be at ETH Zurich for those wondering.~~
 - I attended [YCombinator's AI Startup School](https://www.ycombinator.com/blog/ai-startupschool) in San Francisco, California. I was invited to and attended a dinner with a YC partner as well.
 <!--- - ~~I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!~~ (conflicts with AI Startup School) --->
