@@ -33,7 +33,7 @@ I'm broadly interested in programming languages, systems programming and distrib
     - Proving the correctness of a compiler against a reference interpreter for an imperative language in Coq / Rocq.
     - Proving type soundness of the simply-typed lambda calculus in Coq / Rocq.
     - Formalizing an interpreter for an imperative language in Dafny.
-  - Graduate Theoretical Computer Science Toolkit. Topics included convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis. _I'm currently working on an artifact to showcase some of the cool content from this course. Stay tuned!_
+  - Graduate Theoretical Computer Science Toolkit. Topics included convex analysis and optimization, spectral methods, concentration inequalities, and discrete Fourier analysis.
   - Graduate Hardware Security. Projects include:
     - Hacking the ZBT WE526 (WE1626) router.
     - Writing a Trusted Execution Environment for the [FemtoRV Risc-V CPU](https://github.com/BrunoLevy/learn-fpga/tree/master) in Verilog.
