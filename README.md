@@ -10,10 +10,13 @@ I'm broadly interested in programming languages, systems programming and distrib
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2025
 - (Relevant) classes:
-  - (Graduate) Operating Systems
-  - Honors Research: TBD
-  - Signals and Systems for Mathematicians
--  **I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers.** Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
+  - (Graduate) Operating Systems. Assignments are mostly hacking on [Xinu](https://xinu.cs.purdue.edu/).
+  - (Graduate) Principles of Computer Architecture. Topics include so. much. pipelining. Also branch prediction competition, yay!
+  - Honors Research
+  - Signals and Systems for Mathematicians. 
+-  **I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers.** It is 308 pages and has 63 print orders (as of writing.) Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
+- I'm an organizer for [Purdue Hackers](https://www.purduehackers.com/); I have been running fortnightly workshops on topics such as [algorithmic art](https://github.com/kartva/algorithmic), [GPU Programming](https://luma.com/xginmknu?tk=dxhNCG), and more.
+- <sub><sup>Created a [barbie-themed programming environment](https://github.com/kartva/barbie-lang); [won 2nd place](https://www.linkedin.com/posts/suhani-dadhich03_we-built-a-new-programming-language-its-activity-7430272812508053507--Sy_) in the [InnovateHer hackathon](https://innovateherhacks.org/).</sup></sub>
 
 #### Fall 2025
 - I interned at [Neuralink](https://neuralink.com/).
@@ -24,7 +27,7 @@ I'm broadly interested in programming languages, systems programming and distrib
 <!--- - ~~I will be attending [PLMW](https://www.sigplan.org/Conferences/PLMW/) at [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, South Korea!~~ (conflicts with AI Startup School) --->
 
 #### Spring 2025
-- Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue and won first place in the Most Creative category. <!-- _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_ -->
+- Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue; won first place in the Most Creative category. <!-- _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_ -->
 - I taught an hour-long spontaneous session on theorem proving in Coq at Purdue Hackers.
 - **I wrote [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038).** It is ~6000 words. At least two academic advisors plan to share it with their students in upcoming years!
 - I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrdg7QBiV4HxrGNebdp4vL6WEUQ0w-6RpI) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
@@ -96,10 +99,9 @@ I'm broadly interested in programming languages, systems programming and distrib
  
 #### Before University
 - **I was a [Rise World Finalist](https://www.risefortheworld.org/).**
-- I was accepted to the University of Waterloo, and was later slightly disappointed to know that it was a very good school that I passed on.
 - I started working on Librarian with the Babraham Bioinformatics Institute in 2020. My work on Librarian was [published here](https://f1000research.com/articles/11-1122/v2) first in 2022, and then the revision in 2024.
 - I briefly worked with [Trestle Labs](https://www.trestlelabs.com/) on computer vision using OpenCV in winter 2023.
-- **I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master), from which I was inspired to write my first blog post on segment trees.**
+- **I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master).**
 
 My [blog](https://blog.vashishtha.in/) - it's not completely up to date.
 
