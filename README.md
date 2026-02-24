@@ -17,7 +17,7 @@
   - (Graduate) Principles of Computer Architecture. Topics include so. much. pipelining. Also branch prediction competition, yay!
   - Honors Research
   - Signals and Systems for Mathematicians. 
--  **I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers.** It is 308 pages and has 63 print orders (as of writing.) Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
+-  **I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers.** It is 308 pages and has 66 print orders (as of writing.) Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
 - I'm an organizer for [Purdue Hackers](https://www.purduehackers.com/); I have been running fortnightly workshops on topics such as [algorithmic art](https://github.com/kartva/algorithmic), [GPU Programming](https://luma.com/xginmknu?tk=dxhNCG), and more.
 - <sub><sup>Created a [barbie-themed programming environment](https://github.com/kartva/barbie-lang); [won 2nd place](https://www.linkedin.com/posts/suhani-dadhich03_we-built-a-new-programming-language-its-activity-7430272812508053507--Sy_) in the [InnovateHer hackathon](https://innovateherhacks.org/).</sup></sub>
 
