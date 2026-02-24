@@ -1,14 +1,16 @@
 **This is a standing invitation: if you want to talk software[^1], [I want to talk to you](mailto:sendtokartavya@gmail.com)[^2].**
 
-# Whimsically
+## Whimsically
 - 2026: organized a 308-page journal called [SIGHORSE🦓](https://sig.horse/) and printed 66 copies.
 - 2025: wrote [a famous 6000 word guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). Re-implemented [video compression and streaming (and JPEG) for a technical exhibit](https://github.com/kartva/keymashed/).
 
-# Seriously
+## Seriously
 - 2025: worked at [Neuralink](https://neuralink.com/) on the god web app that kept the company ticking. Worked at [Modular](https://www.modular.com/) on Mojo to making GPU programming easier.
 - 2024: worked on [icu4x](https://github.com/unicode-org/icu4x) to implement a new standard. Did programming languages research[^3].
 - 2022-24: contributed to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/), [Zola](https://github.com/getzola/zola/) and others.
 - 2021, little bit 2023: [made a bioinformatics QC tool](https://github.com/kartva/Librarian)
+
+**among other things.** Read on for more.
 
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2025
