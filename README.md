@@ -1,11 +1,14 @@
-I believe in creating performant, robust and delightful software. I've contributed a bunch to open-source projects. \
 **This is a standing invitation: if you want to talk software[^1], [I want to talk to you](mailto:sendtokartavya@gmail.com)[^2].**
 
-### Work / Open-Source Contributions
-I previously interned at [Neuralink](https://neuralink.com/) and [Modular](https://www.modular.com/). I previously worked on [icu4x](https://github.com/unicode-org/icu4x), an open-source i18n library by the Unicode consortium, and [Librarian](https://github.com/kartva/Librarian), a bioinformatics quality control tool. <!--- I've contributed feature patches to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/) and [Zola](https://github.com/getzola/zola/).-->
+# Whimsically
+- 2026: organized a 308-page journal called [SIGHORSE🦓](https://sig.horse/) and printed 66 copies.
+- 2025: wrote [a famous 6000 word guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). Re-implemented [video compression and streaming (and JPEG) for a technical exhibit](https://github.com/kartva/keymashed/).
 
-### Research
-I'm broadly interested in programming languages, systems programming and distributed systems. I'm currently interested in making software better through integrating LLMs and formal verification: _Software sucks in so many different ways -- random server errors, stale caches, janky animations -- how can we exploit the ability to generate oodles of code for cents to make it better?_ My previous work was in creating optimizations for [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf) with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/).
+# Seriously
+- 2025: worked at [Neuralink](https://neuralink.com/) on the god web app that kept the company ticking. Worked at [Modular](https://www.modular.com/) on Mojo to making GPU programming easier.
+- 2024: worked on [icu4x](https://github.com/unicode-org/icu4x) to implement a new standard. Did programming languages research[^3].
+- 2022-24: contributed to [Rust Analyzer](https://github.com/rust-lang/rust-analyzer/), [Rust Clippy](https://github.com/rust-lang/rust-clippy/), [Wine](https://gitlab.winehq.org/wine/wine), [OpenSearch](https://github.com/opensearch-project/), [Zola](https://github.com/getzola/zola/) and others.
+- 2021, little bit 2023: [made a bioinformatics QC tool](https://github.com/kartva/Librarian)
 
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2025
@@ -108,3 +111,4 @@ My [blog](https://blog.vashishtha.in/) - it's not completely up to date.
 ----
 [^1]: other things are cool too.
 [^2]: [thanks to Patrick McKenzie's standing invitation page for the awesome phrase](https://www.kalzumeus.com/standing-invitation/)
+[^3]: with [Prof. Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) on MRDTs.
