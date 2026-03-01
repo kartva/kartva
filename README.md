@@ -12,7 +12,7 @@
 **among other things.** Read on for more.
 
 ### A chronological ordering of stuff I've done / am doing
-#### Spring 2025
+#### Spring 2026
 - (Relevant) classes:
   - (Graduate) Operating Systems. Assignments are mostly hacking on [Xinu](https://xinu.cs.purdue.edu/).
   - (Graduate) Principles of Computer Architecture. Topics include so. much. pipelining. Also branch prediction competition, yay!
