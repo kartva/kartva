@@ -13,6 +13,7 @@
 
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2026
+- [Delivered a talk](https://www.youtube.com/live/n0F-g57q6kE?t=3376) at [BENTO](https://bento.purduehackers.com/) on spoons. Better VOD coming soon.
 - (Relevant) classes:
   - (Graduate) Operating Systems. Assignments are mostly hacking on [Xinu](https://xinu.cs.purdue.edu/).
   - (Graduate) Principles of Computer Architecture. Topics include so. much. pipelining. Also branch prediction competition, yay!
