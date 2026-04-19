@@ -36,7 +36,7 @@
 - Created [Bad Apple in a C Quine](https://github.com/kartva/quine-apple) for the Catapult hackathon at Purdue; won first place in the Most Creative category. <!-- _"When executed, produces a Bad Apple frame along with its own source code. On executing the output, prints the _next_ Bad Apple frame in comments along with its source code. And so on, for 100 frames."_ -->
 - I taught an hour-long spontaneous session on theorem proving in Coq at Purdue Hackers.
 - **I wrote [a guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038).** It is ~6000 words. At least two academic advisors plan to share it with their students in upcoming years!
-- I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrdg7QBiV4HxrGNebdp4vL6WEUQ0w-6RpI) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
+- I [taught](https://www.linkedin.com/posts/kartav_i-taught-the-interpreters-workshop-at-purdue-activity-7300388870053838851-2TAR) the [Interpreters workshop for Purdue Hackers](https://github.com/kartva/ph-interpreters).
 - (Relevant) classes:
   - Graduate Programming Languages. The first half of the course was based on books from the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series, while the second half covered Dafny, plus a brief introduction to separation logic. Assignments included:
     - Proving the correctness of a compiler against a reference interpreter for an imperative language in Coq / Rocq.
@@ -85,6 +85,7 @@
 - Summer Undergraduate Research Fellow at Purdue University studying [Mergeable Replicated Datatypes](https://www.cs.purdue.edu/homes/suresh/papers/oopsla19-mrdt.pdf) using [Irmin](https://irmin.org/) and OCaml.
 
 #### Spring 2024
+- Gave an introductory [60-slide](https://github.com/user-attachments/files/26876084/why-rust.pdf) [Rust talk at Purdue Hackers](https://www.linkedin.com/posts/kartav_i-recently-ran-a-session-at-the-purdue-hackers-activity-7154240829820157953-eR2J). About 20 people attended.
 - I wrote [a clean inter-process communication program using POSIX shared memory](https://github.com/kartva/memtalk).
 - I participated in the [Open Source Contributor Initiative by OpenSearch](https://opensearch.org/blog/Receive-mentorship-from-Amazon-engineers-and-accelerate-your-career-in-Tech/) and worked on the Performance Analyzer component in OpenSearch using Java.
 - (Relevant) classes:
