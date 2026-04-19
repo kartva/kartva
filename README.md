@@ -13,14 +13,14 @@
 
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2026
-- Won the Outstanding Service to the Department by a Student award from Purdue CS, decided by student voting, for [Optimizing Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038).
+- Awarded 'Outstanding Service to the Department by a Student' from the Purdue CS department, decided by student voting, for [Optimizing Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038).
 - [Delivered a talk](https://www.youtube.com/live/n0F-g57q6kE?t=3376) at [BENTO](https://bento.purduehackers.com/) on spoons. Better VOD coming soon.
 - (Relevant) classes:
   - (Graduate) Operating Systems. Assignments are mostly hacking on [Xinu](https://xinu.cs.purdue.edu/).
   - (Graduate) Principles of Computer Architecture. Topics include so. much. pipelining. Also branch prediction competition, yay!
   - Honors Research
   - Signals and Systems for Mathematicians. 
--  **I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers.** It is 308 pages and has 66 print orders (as of writing.) Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
+-  I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers. Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
 - I'm an organizer for [Purdue Hackers](https://www.purduehackers.com/); I have been running fortnightly workshops on topics such as [GPU Programming](https://github.com/kartva/gpu_workshop) (~80 attendees!), [algorithmic art](https://github.com/kartva/algorithmic), and more.
 - <sub><sup>Created a [barbie-themed programming environment](https://github.com/kartva/barbie-lang); [won 2nd place](https://www.linkedin.com/posts/suhani-dadhich03_we-built-a-new-programming-language-its-activity-7430272812508053507--Sy_) in the [InnovateHer hackathon](https://innovateherhacks.org/).</sup></sub>
 
