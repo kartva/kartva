@@ -14,7 +14,7 @@
 ### A chronological ordering of stuff I've done / am doing
 #### Spring 2026
 - Awarded 'Outstanding Service to the Department by a Student' from the Purdue CS department, decided by student voting, for [Optimizing Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038).
-- [Delivered a talk](https://www.youtube.com/live/n0F-g57q6kE?t=3376) at [BENTO](https://bento.purduehackers.com/) on spoons. Better VOD coming soon.
+- [Delivered a talk](https://youtu.be/6tqaLtKiJJQ?t=11755) at [BENTO](https://bento.purduehackers.com/) on spoons.
 - (Relevant) classes:
   - (Graduate) Operating Systems. Assignments were hacking on [Xinu](https://xinu.cs.purdue.edu/).
   - (Graduate) Principles of Computer Architecture. Topics include so. much. pipelining. and. so. much. branch prediction. Also branch prediction competition, yay!
