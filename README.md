@@ -1,7 +1,7 @@
 **This is a standing invitation: if you want to talk software[^1], [I want to talk to you](mailto:sendtokartavya@gmail.com)[^2].**
 
 ## Whimsically
-- 2026: organized a 308-page journal called [SIGHORSE🦓](https://sig.horse/) and printed 66 copies. [Delivered a talk](https://www.youtube.com/live/n0F-g57q6kE?t=3376) at [BENTO](https://bento.purduehackers.com/) on spoons.
+- 2026: organized a 308-page journal called [SIGHORSE🦓](https://sig.horse/) and printed 66 copies. [Delivered a talk](https://youtu.be/6tqaLtKiJJQ?t=11755) at [BENTO](https://bento.purduehackers.com/) on spoons.
 - 2025: wrote [a famous 6000 word guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). Re-implemented [video compression and streaming (and JPEG) for a technical exhibit](https://github.com/kartva/keymashed/).
 
 ## Seriously
