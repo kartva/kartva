@@ -24,7 +24,7 @@
 - (Relevant) classes:
   - (Graduate) Operating Systems. Assignments were hacking on [Xinu](https://xinu.cs.purdue.edu/).
   - (Graduate) Principles of Computer Architecture. Topics include so. much. pipelining. and. so. much. branch prediction. Also branch prediction competition, yay!
-  - Honors Research
+  - Honors Research on constrained decoding for LLMs. [Slides here](Kart-CS497-2026-04-30.pdf).
   - Signals and Systems for Mathematicians. 
 -  **I finished running the humorous [SIGHORSE🦓](https://sig.horse/) journal for Purdue Hackers.** Essentially [SIGBOVIK](https://sigbovik.org/) for Purdue, if you're familiar.
 - Was an organizer for [Purdue Hackers](https://www.purduehackers.com/); I ran fortnightly workshops on topics such as [GPU Programming](https://github.com/kartva/gpu_workshop) (~80 attendees!), [algorithmic art](https://github.com/kartva/algorithmic), and more.
@@ -53,7 +53,7 @@
     - Hacking the ZBT WE526 (WE1626) router.
     - Writing a Trusted Execution Environment for the [FemtoRV Risc-V CPU](https://github.com/BrunoLevy/learn-fpga/tree/master) in Verilog.
     - Using the Chipwhisperer Nano to crack AES-128 through power analysis.
-  - Graduate Software Engineering for Robots. Assignments included working with ROS2 and MoveIt. I presented the [HAMSTER 🐹: Hierarchical Action Models for Open-World Robot Manipulation](https://hamster-robot.github.io/) paper. [Slides here.](https://github.com/user-attachments/files/19881266/CS.59300SER.Paper.Presentation.pdf)
+  - Graduate Software Engineering for Robots. Assignments included working with ROS2 and MoveIt. I presented the [HAMSTER 🐹: Hierarchical Action Models for Open-World Robot Manipulation](https://hamster-robot.github.io/) paper. [Slides here.](CS.59300SER.Paper.Presentation.pdf)
 
   - Compilers with Tiark Rompf (of Scala fame). Assignments include lots of compilers written in Scala for a Scala-like language to x86.
 
