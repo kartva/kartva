@@ -16,9 +16,6 @@
 
 #### Summer 2026
 - I graduated and am working full-time in San Jose, CA.
-<!---
-- **I was a Quantitative Developer intern at [Citadel EQR](https://www.citadel.com/what-we-do/equities/equity-quantitative-research-eqr/)** this summer.
---->
 #### Spring 2026
 - Awarded 'Outstanding Service to the Department by a Student' from the Purdue CS department, decided by student voting, for [Optimizing Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). [Photo here.](kart-outstanding-service-to-the-department-award.jpg)
 - [Delivered a talk (video here)](https://youtu.be/6tqaLtKiJJQ?t=11755) at [BENTO](https://bento.purduehackers.com/) on spoons.
