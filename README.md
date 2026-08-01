@@ -5,6 +5,7 @@
 - 2025: wrote [a famous 6000 word guide to Optimize Purdue CS](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). Re-implemented [video compression and streaming (and JPEG) for a technical exhibit](https://github.com/kartva/keymashed/).
 
 ## Seriously
+- 2026: saying microseconds multiple times a day at work.
 - 2025: worked at [Neuralink](https://neuralink.com/) on the god web app that kept the company ticking. Worked at [Modular](https://www.modular.com/) on Mojo to making GPU programming easier.
 - 2024: worked on [icu4x](https://github.com/unicode-org/icu4x) to implement a new standard. Did programming languages research[^3].
 - 2021, little bit 2023: [made a bioinformatics QC tool](https://github.com/kartva/Librarian).
