@@ -114,8 +114,6 @@
 - I briefly worked with [Trestle Labs](https://www.trestlelabs.com/) on computer vision using OpenCV in winter 2023.
 - **I was a competitive programmer and qualified for the Indian National Olympiad of Informatics (INOI) in 2020, 2021 and 2022. I studied [Antti Laaksonen's Competitive Programmer's Handbook](https://github.com/pllk/cphb/tree/master).**
 
-My [blog](https://blog.vashishtha.in/) - it's not completely up to date.
-
 ----
 [^1]: other things are cool too.
 [^2]: [thanks to Patrick McKenzie's standing invitation page for the awesome phrase](https://www.kalzumeus.com/standing-invitation/)
