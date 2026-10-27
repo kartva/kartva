@@ -13,6 +13,8 @@
 **among other things.** Read on for more.
 
 ### A chronological ordering of stuff I've done / am doing
+#### Fall 2026
+- Taught a session titled "Inference is cool and interesting" by walking through solving a [popular inference Twitter meme question](https://x.com/tenderizzation/status/2081901890481349000). [Picture.](purdue-hackers-inference-talk.jpg) [Slides here.](inference-is-cool-oct-2026.pdf)
 
 #### Summer 2026
 - I graduated and am working full-time in San Jose, CA.
